@@ -1,0 +1,6 @@
+login:
+    url: "localhost:8080"
+    name: 'j_username'
+    password: 'j_password'
+    loginButton: "yui-gen1-button"
+    loginSuccAssert: ".//*[@id='header']/div[2]/span/a[1]/b"

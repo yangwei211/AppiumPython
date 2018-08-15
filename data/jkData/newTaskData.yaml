@@ -1,0 +1,13 @@
+newtask:
+  newtask_01:
+    task: "新建"
+    taskHo: ".//*[@id='createItem']/div[1]/div/label"
+    taskname: "name"
+    tasktitle: "new job"
+    tasktype: ".label"
+    tasksave: "ok-button"
+  newtask_02:
+    title: "jenkins-name-icon"
+    deletebutton: ".//*[@id='tasks']/div[6]/a[2]"
+  assert:
+    username: "Enter an item name"

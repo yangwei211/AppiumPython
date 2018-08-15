@@ -1,0 +1,9 @@
+login:
+  login_data_01:
+    username: "admin"
+    pwd: "admin"
+  login_data_02:
+    username: "test"
+    pwd: "111111"
+  login:
+    ddjdhdj : "ssb"
